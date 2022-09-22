@@ -7,7 +7,22 @@
     <cv-header-name to="/" prefix="Vivian">Goldmann</cv-header-name>
 
     <cv-header-nav>
-      <cv-header-menu-item to="/repos">Repositories</cv-header-menu-item>
+      <cv-header-menu-item
+        href="https://www.instagram.com/vigoldmann"
+        target="_blank"
+      >
+        Instagram: vigoldmann</cv-header-menu-item
+      >
+      <cv-header-menu-item
+        href="https://www.linkedin.com/in/vivian-goldmann/"
+        target="_blank"
+        >Linkedin: vivian-goldmann</cv-header-menu-item
+      >
+      <cv-header-menu-item
+        href="https://www.facebook.com/vivian.goldmann"
+        target="_blank"
+        >Facebook: vivian.goldman</cv-header-menu-item
+      >
     </cv-header-nav>
 
     <template slot="header-global">

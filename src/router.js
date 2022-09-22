@@ -11,14 +11,14 @@ export default new Router({
       name: 'landing-page',
       component: LandingPage
     },
-    {
-      path: '/repos',
-      name: 'repo-page',
-      // route level code-splitting
-      // this generates a separate chunk (repo-page.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () =>
-        import(/* webpackChunkName: "repo-page" */ './views/RepoPage')
-    }
+    // {
+    //   path: '/repos',
+    //   name: 'repo-page',
+    //   // route level code-splitting
+    //   // this generates a separate chunk (repo-page.[hash].js) for this route
+    //   // which is lazy-loaded when the route is visited.
+    //   component: () =>
+    //     import(/* webpackChunkName: "repo-page" */ './views/RepoPage')
+    // }
   ]
 });
