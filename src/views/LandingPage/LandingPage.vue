@@ -18,7 +18,9 @@
             alt="logo Linkedin"
         /></a>
         <a href="https://www.facebook.com/vivian.goldmann" target="_blank">
-          <img width="32px"  height="32px"
+          <img
+            width="32px"
+            height="32px"
             class=".landing-page__face"
             src="../../assets/logo--facebook.svg"
             alt="logo Linkedin"
@@ -66,6 +68,18 @@
                     livro que estarei lançando em breve, seja por atendimentos
                     também voltados para esse assunto.
                   </p>
+                  <cv-link href="mailto:goldmann@uol.com.br">
+                    <img
+                      width="32px"
+                      height="32px"
+                      class=".landing-page__face"
+                      src="../../assets/email.svg"
+                      alt="logo email"
+                    />
+                    <h2 class="landing-page__subheading">
+                      Contato
+                    </h2></cv-link
+                  >
                 </div>
                 <div class="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                   <img
@@ -112,6 +126,18 @@
                     começar essa jornada de autoconhecimento? Entre em conato e
                     agende sua sessão.
                   </p>
+                  <cv-link href="mailto:goldmann@uol.com.br">
+                    <img
+                      width="32px"
+                      height="32px"
+                      class=".landing-page__face"
+                      src="../../assets/email.svg"
+                      alt="logo email"
+                    />
+                    <h2 class="landing-page__subheading">
+                      Contato
+                    </h2></cv-link
+                  >
                 </div>
                 <div class="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                   <img
@@ -155,6 +181,18 @@
                     de padrões em sua vida? Agende uma sessão e comece essa
                     transformação!
                   </p>
+                  <cv-link href="mailto:goldmann@uol.com.br">
+                    <img
+                      width="32px"
+                      height="32px"
+                      class=".landing-page__face"
+                      src="../../assets/email.svg"
+                      alt="logo email"
+                    />
+                    <h2 class="landing-page__subheading">
+                      Contato
+                    </h2></cv-link
+                  >
                 </div>
                 <div class="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                   <img
@@ -198,6 +236,18 @@
                     Se tiver interesse em conhecer um pouco mais desse trabalho
                     é só agendar um horário. Vamos?
                   </p>
+                  <cv-link href="mailto:goldmann@uol.com.br">
+                    <img
+                      width="32px"
+                      height="32px"
+                      class=".landing-page__face"
+                      src="../../assets/email.svg"
+                      alt="logo email"
+                    />
+                    <h2 class="landing-page__subheading">
+                      Contato
+                    </h2></cv-link
+                  >
                 </div>
                 <div class="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                   <img
@@ -244,6 +294,18 @@
                     híbrido com essas duas ferramentas. Vamos conversar mais a
                     respeito? Te aguardo.
                   </p>
+                  <cv-link href="mailto:goldmann@uol.com.br">
+                    <img
+                      width="32px"
+                      height="32px"
+                      class=".landing-page__face"
+                      src="../../assets/email.svg"
+                      alt="logo email"
+                    />
+                    <h2 class="landing-page__subheading">
+                      Contato
+                    </h2></cv-link
+                  >
                 </div>
                 <div class="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8">
                   <img

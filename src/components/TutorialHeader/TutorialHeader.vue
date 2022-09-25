@@ -23,6 +23,9 @@
         target="_blank"
         >Facebook: vivian.goldman</cv-header-menu-item
       >
+      <cv-header-menu-item href="mailto:goldmann@uol.com.br" target="_blank"
+        >Email: goldmann@uol.com.br</cv-header-menu-item
+      >
     </cv-header-nav>
 
     <template slot="header-global">

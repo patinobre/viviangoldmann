@@ -10,7 +10,7 @@ export default new Router({
       path: '/',
       name: 'landing-page',
       component: LandingPage
-    },
+    }
     // {
     //   path: '/repos',
     //   name: 'repo-page',
