@@ -145,10 +145,10 @@
                     Como funciona na prática?
                   </h2>
                   <p class="landing-page__p">
-                    Agendamos uma sessão inicial para identificar o ojetivo do
-                    coach. Com base nessa sessão inicial, elaboramos um pacote
-                    de sessões. Acompanhamos o desenvolvimento e reduzimos ou
-                    ampliamos as sessões de acordo com o andamento.
+                    Agendamos uma sessão inicial para identificar o ojetivo, meta do
+                    coachee (cliente). Com base nela, elaboramos um pacote
+                    de 10 sessões. Acompanhamos o desenvolvimento e reduzimos ou
+                    ampliamos as sessões de acordo com o andamento do processo.
                   </p>
                   <h2 class="landing-page__subheading">
                     Gostaria de começar essa jornada de autoconhecimento?
