@@ -48,6 +48,8 @@
                     Fui fazer o curso, que é um dos mais completos e demorados,
                     e depois de 4 meses comecei a atender os coachees (clientes)
                     da Appana Terra (Escola de Formação de Coach Ontológico).
+                  </p>
+                  <p class="landing-page__p">
                     Alguns anos depois após muito meditar em busca de expansão
                     uma amiga me falou sobre as Barras de Access, e tornei-me
                     praticante. E conforme as coisas vão fluindo e surgindo na
@@ -56,17 +58,20 @@
                     interessante e alinhado com a forma que eu faço meus
                     atendimentos, então fui fazer o curso em Nazaré Paulista e
                     até hoje estou imersa num grupo de estudos e aprofundando-me
-                    nessa área. Já em 2016 se iniciou uma grande mudança na
-                    minha vida, minha mãe descobriu que estava com câncer, e
-                    depois de muito lutar, nos últimos 7 meses de 2021 ela se
-                    encontrava em uma fase mais avançada. Apesar de ter sido um
-                    período triste para mim também foi um momento onde nós duas
-                    passamos por um processo de cura emocional, e tive a
-                    oportunidade de elaborar e refletir muito sobre o luto. E a
-                    experiência depois trouxe motivação e vontade de ajudar
-                    outras pessoas a passarem por esse processo, seja por um
-                    livro que estarei lançando em breve, seja por atendimentos
-                    também voltados para esse assunto.
+                    nessa área.
+                  </p>
+                  <p class="landing-page__p">
+                    Já em 2016 se iniciou uma grande mudança na minha vida,
+                    minha mãe descobriu que estava com câncer, e depois de muito
+                    lutar, nos últimos 7 meses de 2021 ela se encontrava em uma
+                    fase mais avançada. Apesar de ter sido um período triste
+                    para mim também foi um momento onde nós duas passamos por um
+                    processo de cura emocional, e tive a oportunidade de
+                    elaborar e refletir muito sobre o luto. E a experiência
+                    depois trouxe motivação e vontade de ajudar outras pessoas a
+                    passarem por esse processo, seja por um livro que estarei
+                    lançando em breve, seja por atendimentos também voltados
+                    para esse assunto.
                   </p>
                   <cv-link href="mailto:goldmann@uol.com.br">
                     <img
@@ -113,6 +118,8 @@
                     autodescoberta, onde é possível haver mudanças e nem chegar
                     propriamente num objetivo, mas sim trilhar o caminho e
                     ganhar musculatura e clareza para ir em busca de um destino.
+                  </p>
+                  <p class="landing-page__p">
                     No coaching ontológico o coach investe em compreender como
                     seu coachee (cliente) enxerga o mundo, procurando perceber
                     seu modelo mental. Nessa escola utiliza-se ferramentas para
@@ -122,9 +129,32 @@
                     muito importante compreender que autorresponsabilidade nesse
                     processo é fundamental para o avanço do trabalho. Daí o
                     convite para a checagem das emoções e de como o coachee está
-                    sentindo e vivendo cada etapa da jornada. Gostaria de
-                    começar essa jornada de autoconhecimento? Entre em conato e
-                    agende sua sessão.
+                    sentindo e vivendo cada etapa da jornada.
+                  </p>
+                  <h2 class="landing-page__subheading">
+                    Em que situações posso usar o Coach?
+                  </h2>
+                  <p class="landing-page__p">
+                    # Dificuldades emocionais num relacionamento amoroso e/ou
+                    familiar;<br />
+                    # Planejamento de vida rumo a realização pessoal;<br />
+                    # Potencialização e desenvolvimento de talentos para lidar
+                    com demandas internas e externas;
+                  </p>
+                  <h2 class="landing-page__subheading">
+                    Como funciona na prática?
+                  </h2>
+                  <p class="landing-page__p">
+                    Agendamos uma sessão inicial para identificar o ojetivo do
+                    coach. Com base nessa sessão inicial, elaboramos um pacote
+                    de sessões. Acompanhamos o desenvolvimento e reduzimos ou
+                    ampliamos as sessões de acordo com o andamento.
+                  </p>
+                  <h2 class="landing-page__subheading">
+                    Gostaria de começar essa jornada de autoconhecimento?
+                  </h2>
+                  <p class="landing-page__p">
+                    Entre em contato e agende sua sessão.
                   </p>
                   <cv-link href="mailto:goldmann@uol.com.br">
                     <img
@@ -161,25 +191,39 @@
                     limpar julgamentos, emoções e pensamentos importantes em sua
                     vida. “Ao correr as barras”, você abre as possibilidades de
                     transformar esses padrões de comportamento repetidos desde a
-                    infância. O fundador desse trabalho é o americano Gary
-                    Douglas, que após sentir que a vida não funcionava mais para
-                    ele, começou a perceber que poderia mexer com energias onde
-                    as pessoas estavam se limitando e criou essa ferramenta.
+                    infância.
+                  </p>
+                  <p class="landing-page__p">
+                    O fundador desse trabalho é o americano Gary Douglas, que
+                    após sentir que a vida não funcionava mais para ele, começou
+                    a perceber que poderia mexer com energias onde as pessoas
+                    estavam se limitando e criou essa ferramenta.
+                  </p>
+                  <p class="landing-page__p">
                     Entre os benefícios mais significativos ouve-se: melhora do
                     stress, insônia, autoestima, tensão, ansiedade, clareza,
                     disposição, concentração. E, por acionar a consciência, o
                     método amplia as possibilidades de se achar o propósito de
-                    vida. O trabalho que chamamos de “correr as barras” consiste
-                    num atendimento de aproximadamente uma hora, onde através do
+                    vida.
+                  </p>
+                  <p class="landing-page__p">
+                    O trabalho que chamamos de “correr as barras” consiste num
+                    atendimento de aproximadamente uma hora, onde através do
                     toque suave das mãos, acionamos 32 pontos diferentes da
                     cabeça. Assim vão sendo liberados crenças, ideias e
                     sentimentos limitantes a respeito de diversas áreas tais
                     como: dinheiro, envelhecimento, poder, controle,
                     criatividade, paz, tristeza, sexualidade, comunicação, etc.
+                  </p>
+                  <p class="landing-page__p">
                     É indicado para crianças, jovens, adultos, idosos, na
-                    frequência que sentirem vontade. Vamos em busca da renovação
-                    de padrões em sua vida? Agende uma sessão e comece essa
-                    transformação!
+                    frequência que sentirem vontade.
+                  </p>
+                  <h2 class="landing-page__subheading">
+                    Vamos em busca da renovação de padrões em sua vida?
+                  </h2>
+                  <p class="landing-page__p">
+                    Agende uma sessão e comece essa transformação!
                   </p>
                   <cv-link href="mailto:goldmann@uol.com.br">
                     <img
@@ -221,9 +265,12 @@
                     responsável por sua jornada, portanto é o seu empenho,
                     entrega, juntamente com as ferramentas que são fornecidas
                     que lhe vão dando clareza para o momento que está vivendo.
-                    Isso é um ponto. E quando entrei em contato, anos atrás, com
-                    a Comunicação Não Violenta (CNV), percebi que essa linguagem
-                    veio potencializar meus atendimentos, de tal forma que eu
+                    Isso é um ponto.
+                  </p>
+                  <p class="landing-page__p">
+                    E quando entrei em contato, anos atrás, com a Comunicação
+                    Não Violenta (CNV), percebi que essa linguagem veio
+                    potencializar meus atendimentos, de tal forma que eu
                     pudesse, homeopaticamente ir me alfabetizando e criando
                     intimidade com essa abordagem que estimula a conexão entre
                     as pessoas, mesmo em situações adversas. Digo isso, pois a
@@ -233,9 +280,12 @@
                     conflito, por exemplo. Mas esse é um assunto que merece um
                     mergulho, um aprofundamento, e um convite para espionarem a
                     luz que Marshall Rosenberg, criador da CNV trouxe ao mundo.
-                    Se tiver interesse em conhecer um pouco mais desse trabalho
-                    é só agendar um horário. Vamos?
                   </p>
+                  <h2 class="landing-page__subheading">
+                    Se tiver interesse em conhecer um pouco mais desse trabalho
+                    é só agendar um horário.
+                  </h2>
+                  <p class="landing-page__p">Vamos?</p>
                   <cv-link href="mailto:goldmann@uol.com.br">
                     <img
                       width="32px"
@@ -271,29 +321,42 @@
                     vezes o luto inicia-se com a chegada e o impacto de um
                     diagnóstico numa família. Uma doença grave, incurável, que
                     nem sempre saberemos quanto tempo levará e muito menos como
-                    o paciente e seus arredores viverão essa realidade. Depois
-                    há o espaço de acomodação da notícia e o inicio do
+                    o paciente e seus arredores viverão essa realidade.
+                  </p>
+                  <p class="landing-page__p">
+                    Depois há o espaço de acomodação da notícia e o inicio do
                     tratamento. Mas junto a isso há o estado emocional do
                     paciente e de seu entorno e como a família e a pessoa que
                     vive o processo encaram o fato: querem ter clareza dos
                     passos a seguir ou escondem de si próprios os diagnósticos,
-                    para postergar o sofrimento? Sabemos o que virá, mas
-                    preferimos não ver, não sentir e não pensar ou, estamos
-                    juntos nesse processo e cada passo estaremos unidos para nos
-                    fortalecermos como família, casal, etc? O fato é que Luto
-                    nesse caso é a perda de um ente querido, mas é importante
-                    dizer que enlutamos quando terminamos um casamento, quando
-                    perdemos um animal de estimação, quando nos demitem de um
-                    emprego que amamos. O luto dá margem a falarmos sobre
-                    perdas, choques, traumas, estados emocionais, muita
-                    vulnerabilidade, desencaixes internos e possíveis
-                    reconstruções que o tempo e um mergulho interno é capaz de
-                    nos proporcionar. Se esse assunto reverbera em você e quer
-                    trabalhar esse aspecto posso atendê-lo com Barras de Access
-                    e um processo de Coaching, ou mesmo fazer um trabalho
-                    híbrido com essas duas ferramentas. Vamos conversar mais a
-                    respeito? Te aguardo.
+                    para postergar o sofrimento?
                   </p>
+                  <p class="landing-page__p">
+                    Sabemos o que virá, mas preferimos não ver, não sentir e não
+                    pensar ou, estamos juntos nesse processo e cada passo
+                    estaremos unidos para nos fortalecermos como família, casal,
+                    etc?
+                  </p>
+                  <p class="landing-page__p">
+                    O fato é que Luto nesse caso é a perda de um ente querido,
+                    mas é importante dizer que enlutamos quando terminamos um
+                    casamento, quando perdemos um animal de estimação, quando
+                    nos demitem de um emprego que amamos. O luto dá margem a
+                    falarmos sobre perdas, choques, traumas, estados emocionais,
+                    muita vulnerabilidade, desencaixes internos e possíveis
+                    reconstruções que o tempo e um mergulho interno é capaz de
+                    nos proporcionar.
+                  </p>
+                  <p class="landing-page__p">
+                    Se esse assunto reverbera em você e quer trabalhar esse
+                    aspecto posso atendê-lo com Barras de Access e um processo
+                    de Coaching, ou mesmo fazer um trabalho híbrido com essas
+                    duas ferramentas.
+                  </p>
+                  <h2 class="landing-page__subheading">
+                    Vamos conversar mais a respeito?
+                  </h2>
+                  <p class="landing-page__p">Te aguardo.</p>
                   <cv-link href="mailto:goldmann@uol.com.br">
                     <img
                       width="32px"
